@@ -1,0 +1,24 @@
+.container {
+    display: grid;
+    grid-template-columns: 0fr 6fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 50px;
+    height: 75px;
+    justify-items: stretch;
+    align-items: stretch;
+    border-color: red;
+ }
+ .logo{
+     height: 75px;
+     width:75px;
+ }
+ 
+ .name{
+    display: left;
+    margin-right: 350px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+    font-size: 22px;
+    color: rgba(0, 0, 0, 0.804);
+    margin-top: 25px;
+ }
