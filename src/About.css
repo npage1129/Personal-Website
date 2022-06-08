@@ -12,17 +12,14 @@
 .fancy{
     padding: 10px;
     background-color: rgba(242, 235, 235, 0.487);
-    
     margin-left: 80px;
     height: 500px;
     width: 500px;
-    margin-top: 100px;
+
 }
 .me{
-    margin-top: 100px;
     padding: 10px;
     background-color: rgba(202, 202, 202, 0.477);
-   
     height: 500px;
     width: 500px;
     margin-left: 60px;
@@ -36,5 +33,34 @@
     height: 500px;
     width: 500px;  
     margin-left: 50px; 
-    margin-top: 100px;
+    
+}
+.about{
+    display: grid;
+    grid-template-columns: 25fr 50fr;
+    grid-row-gap: 10px;
+    height: 100px;
+    justify-items: stretch;
+    align-items: stretch;
+    margin-bottom:700px;
+    
+}
+.adjust{
+    margin-top: 50px;
+    border: 1px solid black;
+    height: 500px;
+    width: 500px;
+    background-image: url('https://i.pinimg.com/564x/11/05/d8/1105d8b86207b73a79a61782b030b935.jpg');
+    margin-left: 80px;
+ 
+}
+.heading{
+    font-family: 'Raleway', sans-serif;
+    border-bottom: 1px solid black;
+    text-align: center;
+    margin:auto;
+    margin-top: 220px;
+    width: 45%;
+    font-size: 45px;
+
 }
