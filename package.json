@@ -19,8 +19,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -28,7 +26,6 @@
       "react-app/jest"
     ]
   },
-  "homepage": "http://npage1129.github.io/Personal-Website",
     "browserslist": {
     "production": [
       ">0.2%",
