@@ -4,11 +4,10 @@
     grid-template-columns: 1fr 2fr;
     grid-column-gap: 0px;
     grid-row-gap: 50px;
-    margin-top: 100px;
+    margin-top: 200px;
    
 }
 .text{
-
     font-family: 'Raleway', sans-serif;   
     /* font-weight: bold; */
     text-shadow: 1px 1px 0px #b0a7a7;
@@ -48,3 +47,63 @@
     text-align: center;
     margin-top: 150px;
 }
+.project2{
+    margin-top: 150px;
+    height: 500px;
+    width: 600px;
+    margin-left: 80px;
+    margin-bottom:270px;
+    padding: 50px;
+    border: 1px solid black;
+    background-image: url('https://i.pinimg.com/564x/47/e4/8f/47e48f9587490b257304f20bfcdd3950.jpg');
+}
+.description2{
+    font-family: 'Raleway', sans-serif;   
+    font-size:30px;
+    text-align: center;
+    margin-left: 80px;
+    position: relative;
+    left: 1000px;
+    text-align: center;
+    margin:auto;
+    margin-top: -600px;
+    margin-bottom: 60px;  
+}
+.github2{
+    background-color: rgba(243, 243, 243, 0.862);   
+    font-weight: bold;
+    left: 20px;
+    text-align: center;
+    margin-top: 200px;
+}
+.project3{
+    margin-top: 150px;
+    height: 500px;
+    width: 600px;
+    margin-left: 80px;
+    margin-bottom:270px;
+    padding: 50px;
+    border: 1px solid black;
+    background-image: url('https://i.pinimg.com/564x/47/e4/8f/47e48f9587490b257304f20bfcdd3950.jpg');
+}
+.description3{
+    font-family: 'Raleway', sans-serif;   
+    font-size:30px;
+    text-align: center;
+    margin-left: 80px;
+    position: relative;
+    left: 1000px;
+    text-align: center;
+    margin:auto;
+    margin-top: -600px;
+    margin-bottom: 60px;  
+}
+.github3{
+    background-color: rgba(243, 243, 243, 0.862);   
+    font-weight: bold;
+    left: 20px;
+    text-align: center;
+    margin-top: 160px;
+}
+
+
