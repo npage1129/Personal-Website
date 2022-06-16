@@ -42,3 +42,25 @@
     font-size: 15px;
     margin-top: 25px;
  }
+ @media only screen and (max-width: 1800px){
+   .name{
+      font-family: 'Raleway', sans-serif;
+      font-weight: 300;
+      font-size: 20px;
+      color: rgb(0, 0, 0);
+      margin-top: 28px;
+      white-space: nowrap;
+      margin-right: 1290px;
+   }
+ }
+ @media only screen and (max-width: 1000px){
+   .name{
+      font-family: 'Raleway', sans-serif;
+      font-weight: 300;
+      font-size: 20px;
+      color: rgb(0, 0, 0);
+      margin-top: 28px;
+      white-space: nowrap;
+      margin-right: 600px;
+   }
+ }

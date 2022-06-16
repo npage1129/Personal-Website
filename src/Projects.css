@@ -105,5 +105,71 @@
     text-align: center;
     margin-top: 160px;
 }
+@media only screen and (max-width: 1800px){
+    .description1{
+        font-family: 'Raleway', sans-serif;   
+        font-size:30px;
+        text-align: center;
+        margin-left: 80px;
+        position: relative;
+        left: 850px;
+        text-align: center;
+        margin:auto;
+        margin-top: -555px;
+        margin-bottom: 60px;  
+    }
 
+    .description2{
+        font-family: 'Raleway', sans-serif;   
+        font-size:30px;
+        text-align: center;
+        margin-left: 80px;
+        position: relative;
+        left: 850px;
+        text-align: center;
+        margin:auto;
+        margin-top: -600px;
+        margin-bottom: 60px;  
+    }
+    .description3{
+        font-family: 'Raleway', sans-serif;   
+        font-size:30px;
+        text-align: center;
+        margin-left: 80px;
+        position: relative;
+        left: 850px;
+        text-align: center;
+        margin:auto;
+        margin-top: -600px;
+        margin-bottom: 60px;  
+    }
+    
+}
+@media only screen and (max-width: 1000px){
+    .project1{
+        height: 300px;
+        width: 400px;
+        margin-left: 10px;
+        margin-bottom: 200px;
+        padding: 50px;
+        border: 1px solid black;
+        background-image: url('https://i.pinimg.com/564x/47/e4/8f/47e48f9587490b257304f20bfcdd3950.jpg');
+    }  
+    .project2{
+        height: 300px;
+        width: 400px;
+        margin-left: 10px;
+        margin-bottom: 270px;
+        padding: 50px;
+        border: 1px solid black;
+        background-image: url('https://i.pinimg.com/564x/47/e4/8f/47e48f9587490b257304f20bfcdd3950.jpg');
+    }
+    .project3{
+        height: 300px;
+        width: 400px;
+        margin-left: 10px;
+    
+    }
+  
+}
 
